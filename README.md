@@ -1,3 +1,14 @@
+解决原项目升级到1.0.0的依赖问题
+flutter_location_picker:
+    git:
+          url: https://github.com/bingbingbog/flutter_location_picker.git
+
+
+
+
+
+
+
 # flutter_location_picker
 
 地理位置信息 目前只适用于国内用户.
